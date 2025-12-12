@@ -1,0 +1,23 @@
+
+NEPAL PROVINCE VULNERABILITY ANALYSIS REPORT
+============================================
+Generated on: 2025-12-05 01:56:31.711214
+
+DATA SUMMARY:
+-------------
+Total Provinces: 7
+Total Districts: 77
+
+PROVINCE INFORMATION:
+---------------------
+Bagmati: 13 districts, Vulnerability: 6.88
+Gandaki: 8 districts, Vulnerability: 7.49
+Karnali: 17 districts, Vulnerability: 13.54
+Koshi: 10 districts, Vulnerability: 11.39
+Lumbini: 10 districts, Vulnerability: 10.61
+Madhesh: 12 districts, Vulnerability: 12.12
+Sudurpaschim: 7 districts, Vulnerability: 10.81
+
+MAP INFORMATION:
+Nepal Boundary Bounds: (80.24864864864865, 26.481648648648648, 87.91835135135135, 30.168351351351355)
+Map Center: Lat 28.3250, Lon 84.0835
